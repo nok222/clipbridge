@@ -35,8 +35,8 @@
 You do **not** need to install Go to use this tool.
 
 1. Go to the [**Releases**](../../releases) page.
-2. Download the latest `cp-server-windows-amd64.zip` (or `.exe`).
-3. Extract and double-click `cp-server-bg.exe`:
+2. Download the latest `cp-server-bg.exe` (or `.exe`).
+3. double-click `cp-server-bg.exe`:
    - It will run silently in your **Windows System Tray** (look for the icon in the bottom-right taskbar `^`).
 4. *(Optional)* Right-click the tray icon and check **"Start with Windows"** to make it run automatically on boot.
 
