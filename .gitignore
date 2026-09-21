@@ -1,0 +1,28 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Intermediate build objects
+rsrc.syso
+*.syso
+*.o
+*.a
+
+# Test binaries
+*.test
+*.out
+
+# Windows shortcuts and artifacts
+*.lnk
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
